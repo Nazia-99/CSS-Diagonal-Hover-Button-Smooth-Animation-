@@ -32,9 +32,10 @@ Watch the full tutorial on YouTube:
 🔗 Code with Nazia - Diagonal Button Hover Animation
 
 🖥️ Author
-Code with Nazia
-🔗 YouTube Channel
+Nazia
+🔗 Code With Nazia
 📧 naziaj27@gmail.com
 
 
 📸 Preview
+🔗 https://nazia-99.github.io/CSS-Diagonal-Hover-Button-Smooth-Animation-/
