@@ -28,7 +28,7 @@ This project showcases a **smooth diagonal button hover effect** using only HTML
 - CSS3 (flexbox, transitions, pseudo-elements)
 
 📽️ Tutorial Video
-Watch the full tutorial on YouTube:
+Watch the full tutorial on YouTube: https://youtu.be/jgTBrCi1Yfw
 🔗 Code with Nazia - Diagonal Button Hover Animation
 
 🖥️ Author
@@ -39,3 +39,4 @@ Nazia
 
 📸 Preview
 🔗 https://nazia-99.github.io/CSS-Diagonal-Hover-Button-Smooth-Animation-/
+
